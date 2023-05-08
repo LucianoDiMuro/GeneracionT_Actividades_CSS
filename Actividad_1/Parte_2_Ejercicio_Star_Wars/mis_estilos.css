@@ -1,0 +1,38 @@
+.elImperio {
+    background-color: red;
+}
+
+.losRebeldes {
+    background-color: blue;
+}
+
+#darth_vader {
+    font-size: 100px;
+}
+
+#luke_skywalker {
+    font-style: italic;
+}
+
+#soldados {
+    background-color: yellow;
+    border-color: green;
+    border-style: double;
+    border-radius: 50px;
+    letter-spacing: 20px;
+}
+
+.apoyo {
+    background-color: aqua;
+    text-align:center;
+}
+
+#nave {
+    background-color: aquamarine;
+    text-transform: uppercase;
+}
+
+.droides {
+    display:block;
+    margin:auto;
+}
