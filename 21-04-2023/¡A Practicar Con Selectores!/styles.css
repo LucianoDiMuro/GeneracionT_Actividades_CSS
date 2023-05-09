@@ -1,0 +1,39 @@
+body {
+    background-color: #3D5A80;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f7ede2;
+}
+
+h1 {
+    color: rgb(238, 108, 77);
+}
+
+h2 {
+    color: #E0FBFC;
+}
+
+li {
+    color: white;
+}
+
+#bordeado {
+    border: white solid 3px;
+}
+
+#aloha {
+    background-color:  #293241;
+    color: white;
+}
+
+input {
+    border: rgb(238, 108, 77) dashed 2px;
+}
+
+.p_Dentro_Div {
+    font-size: 150px;
+    color: #98C1D9;
+}
+
+.input_Text {
+    background-color: cyan;
+}
