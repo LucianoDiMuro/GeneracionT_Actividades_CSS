@@ -1,0 +1,83 @@
+body {
+    background-color: #3D5A80;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f7ede2;
+}
+
+h1 {
+    color: rgb(238, 108, 77);
+}
+
+h2 {
+    color: #E0FBFC;
+}
+
+li {
+    color: white;
+}
+
+#bordeado {
+    border: white solid 3px;
+}
+
+#aloha {
+    background-color:  #293241;
+    color: white;
+}
+
+input {
+    border: rgb(238, 108, 77) dashed 2px;
+}
+
+.p_Dentro_Div {
+    font-size: 100px;
+    color: #98C1D9;
+}
+
+.input_Text {
+    background-color: cyan;
+}
+
+a {
+    padding: 30px; 
+    background: light-gray; 
+    color: violet; 
+}
+
+a :hover{
+    padding: 30px; 
+    background: blue; 
+    color: white; 
+}
+
+a :active{
+    padding: 30px; 
+    background: gray; 
+    color: white; 
+}
+
+div:nth-of-type(3) p {
+    background-color: blue;
+}
+
+div:nth-of-type(3) p:nth-last-of-type(1) {
+    border: white 4px;
+    background-color: yellow;
+}
+
+div:nth-of-type(3) span {
+    background-color: white;
+}
+
+.checkbox_Isquierda {
+    margin-left: 65px;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+#ultimo:first-letter{
+    background-color: orange;
+    font-size: 300px;
+}
